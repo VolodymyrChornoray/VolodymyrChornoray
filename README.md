@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Volodymyr Chornoray
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python on Linux
-- 💞️ I’m looking to collaborate on developing on the peace environment
+- 🌱 I’m currently learning Python on Linux-Ubuntu
+- 💞️ I’m looking for new achievements and expirience, eager learn something new
 - 📫 How to reach me  - send me an email to: chernomorvc@gmail.com
 
 <!---
