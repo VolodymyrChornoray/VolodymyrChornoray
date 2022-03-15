@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python on Linux-Ubuntu
 - 💞️ I’m looking for new achievements and expirience, eager to learn something new
-- 📫 How to reach me  - send me an email to: chernomorvc@gmail.com
+- 📫 How to reach me  - send me an email to: chernomor.vc@gmail.com
 
 <!---
 VolodymyrChornoray/VolodymyrChornoray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
